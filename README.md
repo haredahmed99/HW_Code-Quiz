@@ -25,4 +25,4 @@ The following animation demonstrates the application functionality:
 
 ![screenshot of scoreboard](./assets/images/code-quiz5.png)
 
-### Link to deployed application: 
+### Link to deployed application: https://haredahmed99.github.io/HW_Code-Quiz/
